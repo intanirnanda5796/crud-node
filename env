@@ -1,0 +1,11 @@
+APP=development
+PORT=8080
+APP_ACCESS=development
+PROJECT_NAME=client-api
+
+DB_USERNAME=root
+DB_PASSWORD=menara34
+DB_NAME=qtruststaging
+DB_HOSTNAME=127.0.0.1
+DB_PORT=3306
+DB_DIALECT=mysql
